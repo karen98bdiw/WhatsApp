@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+
+
+>
+
+    <item
+            android:id="@+id/menuSearchItem"
+            android:icon="@drawable/ic_action_search"
+            android:title="@string/options_menu_search_text"
+            app:showAsAction="ifRoom"
+    />
+
+    <item
+            android:id="@+id/menuNewGroupItem"
+            android:title="@string/options_menu_new_group_text"
+            app:showAsAction="never"
+      />
+    <item
+            android:id="@+id/menuNewBroadcastItem"
+            android:title="@string/options_menu_new_broadcast_text"
+            app:showAsAction="never"
+    />
+    <item
+            android:id="@+id/menuWahtsAppWebItem"
+            android:title="@string/options_menu_whats_app_web_text"
+            app:showAsAction="never"
+    />
+    <item
+            android:id="@+id/menuStarredMessageItem"
+            android:title="@string/options_menu_starredMessages_text"
+            app:showAsAction="never"
+    />
+    <item
+            android:id="@+id/menuSettingsItem"
+            android:title="@string/options_menu_settigns_text"
+            app:showAsAction="never"
+    />
+
+
+</menu>

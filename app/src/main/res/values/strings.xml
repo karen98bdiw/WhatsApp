@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="app_logo_text">WhatsApp</string>
+    <string name="search_icon_description">searchIcon</string>
+    <string name="more_icon_description">moreIcon</string>
+    <string name="options_menu_search_text"></string>
+    <string name="options_menu_new_group_text">New group</string>
+    <string name="options_menu_new_broadcast_text">New broadcast</string>
+    <string name="options_menu_whats_app_web_text">WhatsApp_Web</string>
+    <string name="options_menu_starredMessages_text">Starred messages</string>
+    <string name="options_menu_settigns_text">Settings</string>
+</resources>
